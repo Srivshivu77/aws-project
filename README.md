@@ -30,20 +30,9 @@ This repository contains the setup and configuration details for an **AWS Organi
 - **AWS CLI** installed and configured.
 - **Terraform** (if using Infrastructure as Code).
 
-## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/aws-organizational-setup.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd aws-organizational-setup
-   ```
-3. Follow the setup guide in **setup-guide.md**.
-4. Review the **final-project-documentation.pdf** for detailed insights.
 
 ## Final Project PDF
-The complete documentation and architecture details are available in **[final-project-documentation.pdf](./final-project-documentation.pdf)**.
+The complete documentation and architecture details are available in **[final-project-documentation.pdf](.shiwansh_srivastava_aws(1).pdf)**.
 
 ## Future Enhancements
 - Automate account creation and policy enforcement.
